@@ -1,5 +1,5 @@
 {
-  "name": "Timed-Flash-Cards",
+  "name": "Bike-Index-API",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
+    "dotenv-webpack": "^1.7.0",
     "eslint": "^6.3.0",
     "eslint-loader": "^3.0.0",
     "html-webpack-plugin": "^3.2.0",
@@ -29,6 +30,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "hellojs": "^1.18.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0"
   }
